@@ -1,5 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/5f1e632f-2f2b-40fc-bfeb-a7a4094d1098)
-<br/>
+<img src="https://github.com/user-attachments/assets/5f1e632f-2f2b-40fc-bfeb-a7a4094d1098" alt="MasterHead" width="800" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BinzXD.BinzXD" />
 
 
