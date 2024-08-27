@@ -35,11 +35,5 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebasemysql" /><br>
 </div>
 
-<br/>
-<hr/>
 
-
-<br/><br/>
-
-<hr/>
 
