@@ -13,6 +13,8 @@
 <div align="center">
 I have a high interest in web development. I want to be a full stack web developer who has the skills to create responsive and interactive websites.
  </div>
+
+<br/>
  
 <div align="center"> 
   <a href="bintangwiratama4@gmail.com">
