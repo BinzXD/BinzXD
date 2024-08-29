@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
- I am a highly motivated Informatics Engineering student with 2 years of experience in the IT field. I have a strong interest in web development, both frontend and backend, and am committed to continually learning and delivering top-quality results. My goal is to leverage my skills to achieve common objectives and contribute effectively to team success.
+I have a high interest in web development. I want to be a full stack web developer who has the skills to create responsive and interactive websites.
  </div>
  
 <div align="center"> 
