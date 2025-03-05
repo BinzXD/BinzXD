@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/5f1e632f-2f2b-40fc-bfeb-a7a4094d1098" alt="MasterHead" width="1000" />
+<img src="https://github.com/user-attachments/assets/c5c78149-02bd-4844-b863-2effa3af17cc" width="100%"/>
+
+
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=BinzXD.BinzXD" />
 
 
